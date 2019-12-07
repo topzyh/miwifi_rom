@@ -15,9 +15,9 @@
 
 参考 https://bbs.misstar.com/?thread-255.htm
 
-官方原版没了，这是镜像站
+官方原版没了，~~这是镜像站~~，镜像站也没了，用tools/install.sh自行安装吧
 ```
-wget http://cloud.lifeheart.cn:188/miwifi/MT/tools/appstore/install.sh -O /tmp/install.sh && chmod +x /tmp/install.sh && /tmp/install.sh
+# wget http://www.xxx.com/miwifi/MT/tools/appstore/install.sh -O /tmp/install.sh && chmod +x /tmp/install.sh && /tmp/install.sh
 ```
 
 
