@@ -1,4 +1,7 @@
-欢迎一起收集: https://github.com/topzyh/miwifi_rom
+# 新的好用的工具箱出现，请大家移步
+
+GitHub: https://github.com/monlor/MIXBOX
+(不是我写的，这里只做收集)
 
 
 # 官方原版 
